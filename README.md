@@ -1,7 +1,7 @@
 # 超快速的sklearn入门指南
 
 ## env
-python3，jupyter-notebook，以及notebook正文中用到的包  
+python3，jupyter-notebook，以及notebook正文中用到的包  
 
 ## tutorial
 ### part1 熟悉ml的基本流程和sklearn的使用
@@ -15,5 +15,5 @@ python3，jupyter-notebook，以及notebook正文中用到的包
 
 对应workflow.ipynb  
 
-主要是smzdm的数据结构和part1的数据有些变化，而且part1中的代码以探索为主，没有展示完整的工作流。  
+主要是smzdm的数据结构和part1的数据有些变化，而且part1中的代码以探索为主，没有展示完整的工作流。  
 【视频回头再录】
